@@ -1,6 +1,6 @@
 # Python Learning Resources Web App using Streamlit
 
-This is a simple web application that offers a curated list of resources to learn Python. The app uses the Streamlit library, a popular tool for creating web applications in Python.
+[Python Learning Resources](https://projectspython-projectsweb-appspython-learning-resourc-wnpi0o.streamlit.app/) is a simple web application that offers a curated list of resources to learn Python. The app uses the Streamlit library, a popular tool for creating web applications in Python.
 
 ## File Structure
 
